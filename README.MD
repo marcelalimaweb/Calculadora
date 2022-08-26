@@ -1,5 +1,5 @@
 <p align: center>
-  <img alt="Teste Calculadora" src="./img/calculadora.png" width="1000px">
+  <img alt="Teste Calculadora" src="../img/calculadora.png" width="1000px">
 </p>
 
 <br>
